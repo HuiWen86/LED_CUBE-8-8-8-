@@ -1,5 +1,5 @@
 # LED 큐브 제작 입니다. 
-
+Youtube : https://www.youtube.com/watch?v=_qJzpUvwSvA&t=3s
 8*8*8 사이즈 입니다. 
 
 #제작에 들어간 주요 물품
