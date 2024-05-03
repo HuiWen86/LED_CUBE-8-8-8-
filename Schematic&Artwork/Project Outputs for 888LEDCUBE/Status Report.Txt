@@ -1,0 +1,17 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [888LEDCUBE.PrjPCB]
+   Generated File[888LEDCUBE.GBL]
+   Generated File[888LEDCUBE.GBS]
+   Generated File[888LEDCUBE.GBP]
+   Generated File[888LEDCUBE.GBO]
+   Generated File[888LEDCUBE.GPB]
+   Generated File[888LEDCUBE.RUL]
+   Generated File[888LEDCUBE.EXTREP]
+   Generated File[888LEDCUBE.REP]
+
+
+Files Generated   : 8
+Documents Printed : 0
+
+Finished Output Generation At ¿ÀÈÄ 3:38:32 On 2024-05-03
